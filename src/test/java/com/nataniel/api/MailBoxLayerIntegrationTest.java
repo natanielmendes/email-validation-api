@@ -1,4 +1,4 @@
-package net.s4bdigital.api;
+package com.nataniel.api;
 import org.junit.Test;
 
 /**

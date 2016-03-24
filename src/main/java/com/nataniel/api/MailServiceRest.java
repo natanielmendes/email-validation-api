@@ -1,4 +1,4 @@
-package net.s4bdigital.api;
+package com.nataniel.api;
 
 /**
  * Created by nataniel.neto on 21/03/2016.
